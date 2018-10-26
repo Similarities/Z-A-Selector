@@ -15,4 +15,5 @@ This little program gives for a given Z/A number up to the 4.th period of the pe
 an uncertainty. Naturally, the uncertainty if choosen to big leads to multiple matches.
 
 Values Z/A are asked in decimals (0.xyd), uncertainty in the same notation (absolute error!).
+Some frequent isotopes (https://en.wikipedia.org/wiki/Isotope) are implemented too.
 
