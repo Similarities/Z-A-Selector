@@ -3,7 +3,7 @@ Charge (Z) / Atomic mass (A) Selector ... For charged ions
 
 
 The mass of atoms is given in units of 1/12 of C12 atom: see: https://en.wikipedia.org/wiki/Atomic_mass.
-The charge state gives ionization values (here: loss of electrons) from neutral - to -full ionization. The maximum
+The charge state gives ionization values (int, here: loss of electrons) from neutral - to -full ionization. The maximum
 electron number is given by the elements characterisitics depending on the number of protons in the atomic core 
 (see: https://en.wikipedia.org/wiki/Periodic_table). 
 Hence, Z>0 for electron loss and Z<0 for electron capture. 
