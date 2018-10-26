@@ -11,7 +11,7 @@ Hence, Z>0 for electron loss and Z<0 for electron capture.
 For moving ions, the charge to mass number (Z/A) can be determined by a Thomson Spectrometer (static B and E field), that deflects
 the ions according to Z/A and in velocity. (https://en.wikipedia.org/wiki/Mass-to-charge_ratio).
 
-This little program gives for a given Z/A number up to the 4.th period of the periodic table, the matching elements within
+This little code gives for a given Z/A number up to the 4.th period of the periodic table, the matching elements within
 an uncertainty. Naturally, the uncertainty if choosen to big leads to multiple matches.
 
 Values Z/A are asked in decimals (0.xyd), uncertainty in the same notation (absolute error!).
